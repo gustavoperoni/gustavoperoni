@@ -1,4 +1,4 @@
-## <h1 align="center">Hi! My name is Gustavo and I'm a developer, from brazil.</h1>
+ <h1 align="center">Hi! My name is Gustavo and I'm a developer, from brazil.</h1>
 
 <h5 align="left"> 📚 Computer science student at Estácio de Sá University</h5>
 
@@ -15,7 +15,8 @@
 </div>
 
 
-<h3 align="left"> 👩‍💻 I code with</h3>
+
+## <h3 align="left"> 👩‍💻 I code with</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="pn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
