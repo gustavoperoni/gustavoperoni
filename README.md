@@ -2,9 +2,12 @@
  📚 Computer science student at Estácio de Sá University
  <br>
  🔥 My portfolio:
-
+ 
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoperoni&sho_icons=true&theme=midnight-purple)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoperoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoperoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"/>
+</div>
+
 <div> 
   <a href="https://www.instagram.com/peeni_07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="www.linkedin.com/in/gustavo-peroni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
