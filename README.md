@@ -5,13 +5,13 @@
  <h5 align="left">⚡ My portfolio:</h5>
  
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=gustavoperoni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=gustavoperoni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoperoni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
 <div> 
   <a href="www.instagram.com/peeni_07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="www.linkedin.com/in/gustavo-peroni76ba28342" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 	<a href="www.linkedin.com/in/gustavo-peroni76ba28342/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## <h3 align="left">👩‍💻 I code with</h3>
