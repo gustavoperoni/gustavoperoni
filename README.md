@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is Gustavo and I'm a developer, from brazil.</h1>
 
-<h5 align="left"> 📚 Computer science student at Estácio de Sá University</h5>
+<h5 align="left">📚 Computer science student at Estácio de Sá University</h5>
 
  <h5 align="left">⚡ My portfolio:</h5>
  
@@ -14,7 +14,7 @@
  	<a href="www.linkedin.com/in/gustavo-peroni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## <h3 align="left"> 👩‍💻 I code with</h3>
+## <h3 align="left">👩‍💻 I code with</h3>
 
 <div style="display: inline_block">
  <br>
